@@ -49,3 +49,7 @@ Git을 사용하지만 잘 못쓰는 개발자들이 모였다.
 ## amend 강제추가2
 
 ## remote 강제 추가2
+
+## remote 강제 추가 for kw
+
+## remote 강제 추가 for kw2
